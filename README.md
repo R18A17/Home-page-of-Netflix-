@@ -1,2 +1,2 @@
 # Home-page-of-Netflix-
-I Developed my portfolio website using HTML,CSS,JAVASCRIPT
+I Developed the  Home page of Netflix using HTML,CSS,JAVASCRIPT
